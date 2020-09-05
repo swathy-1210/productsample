@@ -1,0 +1,11 @@
+/Users/mtc-temp/testrepo/product-data-svc/src/main/java/com/example/product/Application.java
+/Users/mtc-temp/testrepo/product-data-svc/src/main/java/com/example/product/exception/ProductNotFoundException.java
+/Users/mtc-temp/testrepo/product-data-svc/src/main/java/com/example/product/exception/ProductExceptionController.java
+/Users/mtc-temp/testrepo/product-data-svc/src/main/java/com/example/product/controller/ProductController.java
+/Users/mtc-temp/testrepo/product-data-svc/src/main/java/com/example/product/models/Product.java
+/Users/mtc-temp/testrepo/product-data-svc/src/main/java/com/example/product/repository/MydomainRespository.java
+/Users/mtc-temp/testrepo/product-data-svc/src/main/java/com/example/product/repository/MyDomainReactiveRepository.java
+/Users/mtc-temp/testrepo/product-data-svc/src/main/java/com/example/product/config/CouchbaseConfig.java
+/Users/mtc-temp/testrepo/product-data-svc/src/main/java/com/example/product/models/Prices.java
+/Users/mtc-temp/testrepo/product-data-svc/src/main/java/com/example/product/exception/ProductException.java
+/Users/mtc-temp/testrepo/product-data-svc/src/main/java/com/example/product/models/Price.java
